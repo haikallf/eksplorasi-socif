@@ -1,0 +1,5 @@
+export enum ActionType {
+  TOGGLE_SIDEBAR = "TOGGLE_SIDEBAR",
+  CURRENT_USER = "CURRENT_USER",
+  SEARCH = "SEARCH",
+}

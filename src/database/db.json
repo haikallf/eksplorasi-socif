@@ -1,0 +1,371 @@
+{
+  "users": [
+    {
+      "email": "adrianbee@email.com",
+      "password": "halohalo",
+      "id": "1"
+    },
+    {
+      "email": "brunobrooke@email.com",
+      "password": "halohalo",
+      "id": "2"
+    },
+    {
+      "email": "codyclayton@email.com",
+      "password": "halohalo",
+      "id": "3"
+    },
+    {
+      "email": "darrendana@email.com",
+      "password": "halohalo",
+      "id": "4"
+    },
+    {
+      "email": "edenerik@email.com",
+      "password": "halohalo",
+      "id": "5"
+    },
+    {
+      "email": "francisfritz@email.com",
+      "password": "halohalo",
+      "id": "6"
+    },
+    {
+      "email": "gregorygerald@email.com",
+      "password": "halohalo",
+      "id": "7"
+    },
+    {
+      "email": "haikalfadil@email.com",
+      "password": "halohalo",
+      "id": "8"
+    },
+    {
+      "email": "incognitoice@email.com",
+      "password": "halohalo",
+      "id": "9"
+    },
+    {
+      "email": "jolyonpalmer@email.com",
+      "password": "halohalo",
+      "id": "10"
+    },
+    {
+      "email": "keenankonner@email.com",
+      "password": "halohalo",
+      "id": "11"
+    },
+    {
+      "email": "lazolewie@email.com",
+      "password": "halohalo",
+      "id": "12"
+    }
+  ],
+  "events": [
+    {
+      "name_event": "Synchronize Fest",
+      "created_date": "2022/01/20",
+      "start_date": "2022/01/22",
+      "end_date": "2022/08/23",
+      "start_time": "06:00",
+      "end_time": "23:00",
+      "description": "Festival musik multi-genre tahunan berskala nasional yang mengundang puluhan ribu audience untuk merayakan keberagaman jenis musih hidup di enam panggung selama tiga hari.",
+      "channel": "Music",
+      "location": "Gelora Bung Karno",
+      "address": "12 Bayfront Ave, S018956",
+      "images": 0,
+      "id": "1",
+      "id_user": "3",
+      "email": "codyclayton@email.com",
+      "likes": [
+        "jolyonpalmer@email.com",
+        "codyclayton@email.com",
+        "darrendana@email.com",
+        "francisfritz@email.com",
+        "gregorygerald@email.com",
+        "incognitoice@email.com",
+        "lazolewie@email.com",
+        "edenerik@email.com",
+        "adrianbee@email.com"
+      ],
+      "going": [
+        "darrendana@email.com",
+        "edenerik@email.com",
+        "adrianbee@email.com"
+      ],
+      "comments": [
+        {
+          "comment": "halhalo",
+          "comment_date": "2022/02/07",
+          "comment_time": "14:45",
+          "email": "adrianbee@email.com"
+        },
+        {
+          "comment": "tes",
+          "comment_date": "2022/01/31",
+          "comment_time": "14:08",
+          "email": "adrianbee@email.com"
+        },
+        {
+          "comment": "tes 2",
+          "comment_date": "2022/01/29",
+          "comment_time": "19:04",
+          "email": "adrianbee@email.com"
+        },
+        {
+          "comment": "tes",
+          "comment_date": "2022/01/28",
+          "comment_time": "19:02",
+          "email": "adrianbee@email.com"
+        },
+        {
+          "comment": "hai",
+          "comment_date": "2022/01/27",
+          "comment_time": "20:24",
+          "email": "adrianbee@email.com"
+        },
+        {
+          "comment": "hai",
+          "comment_date": "2022/01/24",
+          "comment_time": "18:36",
+          "email": "adrianbee@email.com"
+        },
+        {
+          "email": "darrendana@email.com",
+          "comment": "Mantap bos",
+          "comment_date": "2022/01/22",
+          "comment_time": "18:00"
+        },
+        {
+          "email": "edenerik@email.com",
+          "comment": "Letsgoo!!!",
+          "comment_date": "2022/01/19",
+          "comment_time": "19:00"
+        }
+      ]
+    },
+    {
+      "name_event": "IMX 2022",
+      "created_date": "2022/01/22",
+      "start_date": "2022/01/22",
+      "end_date": "2022/05/23",
+      "start_time": "06:00",
+      "end_time": "22:00",
+      "description": "Event expo tahunan yang digagas National Modificator & Aftermarket Association (NMAA) dengan tujuan menggerakkan dan menggairahkan industri modifikasi Indonesia.",
+      "channel": "Automotive",
+      "location": "Jakarta",
+      "address": "Tebet Barat Dalam, 12810",
+      "images": 2,
+      "id": "2",
+      "id_user": "2",
+      "email": "brunobrooke@email.com",
+      "likes": [
+        "codyclayton@email.com",
+        "darrendana@email.com",
+        "edenerik@email.com",
+        "adrianbee@email.com"
+      ],
+      "going": [
+        "edenerik@email.com"
+      ],
+      "comments": [
+        {
+          "email": "darrendana@email.com",
+          "comment": "Mantap bos",
+          "comment_date": "2022/01/19",
+          "comment_time": "18:00"
+        },
+        {
+          "email": "edenerik@email.com",
+          "comment": "Letsgoo!!!",
+          "comment_date": "2022/01/18",
+          "comment_time": "19:00"
+        }
+      ]
+    },
+    {
+      "name_event": "Activity Title Name Make it Longer May Longer than One Line",
+      "created_date": "2022/01/04",
+      "start_date": "2022/04/30",
+      "end_date": "2022/05/16",
+      "start_time": "06:00",
+      "end_time": "23:00",
+      "description": "[Event 3] Officia officia fugiat magna minim adipisicing amet anim id adipisicing eiusmod Lorem sunt minim proident. Cillum labore velit exercitation nisi adipisicing exercitation enim sunt aute ad culpa mollit sint. Labore in magna do sit magna amet laborum nulla duis. Deserunt aute velit esse sit aliqua consequat commodo irure dolor minim qui anim qui consectetur. Ex consectetur non et elit id non proident id dolore. Commodo aliqua eiusmod cillum irure irure ut ut aute. Quis exercitation sit ipsum incididunt veniam cillum aliqua Lorem officia id fugiat. Veniam excepteur nulla dolore consectetur reprehenderit amet nostrud ipsum cupidatat.",
+      "channel": "Music",
+      "location": "Marina Bay Sands 1",
+      "address": "12 Bayfront Ave, S018956",
+      "images": 2,
+      "id": "3",
+      "id_user": "4",
+      "email": "darrendana@email.com",
+      "likes": [
+        "codyclayton@email.com",
+        "darrendana@email.com",
+        "adrianbee@email.com"
+      ],
+      "going": [
+        "darrendana@email.com",
+        "edenerik@email.com",
+        "adrianbee@email.com"
+      ],
+      "comments": [
+        {
+          "comment": "hai",
+          "comment_date": "2022/01/11",
+          "comment_time": "18:36",
+          "email": "adrianbee@email.com"
+        },
+        {
+          "email": "darrendana@email.com",
+          "comment": "Mantap bos",
+          "comment_date": "2022/01/08",
+          "comment_time": "18:00"
+        },
+        {
+          "email": "edenerik@email.com",
+          "comment": "Letsgoo!!!",
+          "comment_date": "2022/01/06",
+          "comment_time": "19:00"
+        }
+      ]
+    },
+    {
+      "name_event": "Activity Title Name Make it Longer May Longer than One Line",
+      "created_date": "2022/01/04",
+      "start_date": "2022/02/14",
+      "end_date": "2022/02/16",
+      "start_time": "06:00",
+      "end_time": "23:00",
+      "description": "[Event 4] Officia officia fugiat magna minim adipisicing amet anim id adipisicing eiusmod Lorem sunt minim proident. Cillum labore velit exercitation nisi adipisicing exercitation enim sunt aute ad culpa mollit sint. Labore in magna do sit magna amet laborum nulla duis. Deserunt aute velit esse sit aliqua consequat commodo irure dolor minim qui anim qui consectetur. Ex consectetur non et elit id non proident id dolore. Commodo aliqua eiusmod cillum irure irure ut ut aute. Quis exercitation sit ipsum incididunt veniam cillum aliqua Lorem officia id fugiat. Veniam excepteur nulla dolore consectetur reprehenderit amet nostrud ipsum cupidatat.",
+      "channel": "Music",
+      "location": "Marina Bay Sands 1",
+      "address": "12 Bayfront Ave, S018956",
+      "images": 3,
+      "id": "4",
+      "id_user": "4",
+      "email": "darrendana@email.com",
+      "likes": [
+        "codyclayton@email.com",
+        "darrendana@email.com",
+        "adrianbee@email.com"
+      ],
+      "going": [
+        "darrendana@email.com",
+        "edenerik@email.com",
+        "adrianbee@email.com"
+      ],
+      "comments": [
+        {
+          "comment": "hai",
+          "comment_date": "2022/01/11",
+          "comment_time": "18:36",
+          "email": "adrianbee@email.com"
+        },
+        {
+          "email": "darrendana@email.com",
+          "comment": "Mantap bos",
+          "comment_date": "2022/01/08",
+          "comment_time": "18:00"
+        },
+        {
+          "email": "edenerik@email.com",
+          "comment": "Letsgoo!!!",
+          "comment_date": "2022/01/07",
+          "comment_time": "19:00"
+        }
+      ]
+    },
+    {
+      "name_event": "ScienceFest",
+      "created_date": "2022/02/04",
+      "start_date": "2022/03/14",
+      "end_date": "2022/03/16",
+      "start_time": "06:00",
+      "end_time": "23:00",
+      "description": "[Event 5] Officia officia fugiat magna minim adipisicing amet anim id adipisicing eiusmod Lorem sunt minim proident. Cillum labore velit exercitation nisi adipisicing exercitation enim sunt aute ad culpa mollit sint. Labore in magna do sit magna amet laborum nulla duis. Deserunt aute velit esse sit aliqua consequat commodo irure dolor minim qui anim qui consectetur. Ex consectetur non et elit id non proident id dolore. Commodo aliqua eiusmod cillum irure irure ut ut aute. Quis exercitation sit ipsum incididunt veniam cillum aliqua Lorem officia id fugiat. Veniam excepteur nulla dolore consectetur reprehenderit amet nostrud ipsum cupidatat.",
+      "channel": "Science",
+      "location": "Marina Bay Sands 1",
+      "address": "12 Bayfront Ave, S018956",
+      "images": 1,
+      "id": "5",
+      "id_user": "4",
+      "email": "darrendana@email.com",
+      "likes": [
+        "codyclayton@email.com",
+        "darrendana@email.com",
+        "adrianbee@email.com"
+      ],
+      "going": [
+        "darrendana@email.com",
+        "edenerik@email.com",
+        "adrianbee@email.com"
+      ],
+      "comments": [
+        {
+          "comment": "hai",
+          "comment_date": "2022/01/21",
+          "comment_time": "18:36",
+          "email": "codyclayton@email.com"
+        },
+        {
+          "email": "darrendana@email.com",
+          "comment": "Mantap bos",
+          "comment_date": "2022/01/19",
+          "comment_time": "18:00"
+        },
+        {
+          "email": "edenerik@email.com",
+          "comment": "Letsgoo!!!",
+          "comment_date": "2022/01/18",
+          "comment_time": "19:00"
+        }
+      ]
+    },
+    {
+      "name_event": "Lampion Art Festival",
+      "created_date": "2022/01/04",
+      "start_date": "2022/01/14",
+      "end_date": "2022/01/20",
+      "start_time": "06:00",
+      "end_time": "23:00",
+      "description": "[Event 6] Officia officia fugiat magna minim adipisicing amet anim id adipisicing eiusmod Lorem sunt minim proident. Cillum labore velit exercitation nisi adipisicing exercitation enim sunt aute ad culpa mollit sint. Labore in magna do sit magna amet laborum nulla duis. Deserunt aute velit esse sit aliqua consequat commodo irure dolor minim qui anim qui consectetur. Ex consectetur non et elit id non proident id dolore. Commodo aliqua eiusmod cillum irure irure ut ut aute. Quis exercitation sit ipsum incididunt veniam cillum aliqua Lorem officia id fugiat. Veniam excepteur nulla dolore consectetur reprehenderit amet nostrud ipsum cupidatat.",
+      "channel": "Technology",
+      "location": "Marina Bay Sands 1",
+      "address": "12 Bayfront Ave, S018956",
+      "images": 0,
+      "id": "6",
+      "id_user": "11",
+      "email": "keenankonner@email.com",
+      "likes": [
+        "codyclayton@email.com",
+        "darrendana@email.com",
+        "adrianbee@email.com"
+      ],
+      "going": [
+        "darrendana@email.com",
+        "edenerik@email.com",
+        "adrianbee@email.com"
+      ],
+      "comments": [
+        {
+          "comment": "hai",
+          "comment_date": "2022/01/21",
+          "comment_time": "18:36",
+          "email": "codyclayton@email.com"
+        },
+        {
+          "email": "darrendana@email.com",
+          "comment": "Mantap bos",
+          "comment_date": "2022/01/19",
+          "comment_time": "18:00"
+        },
+        {
+          "email": "edenerik@email.com",
+          "comment": "Letsgoo!!!",
+          "comment_date": "2022/01/18",
+          "comment_time": "19:00"
+        }
+      ]
+    }
+  ]
+}
